@@ -1,7 +1,7 @@
 # import pymysql
 #
 # # 与数据库建立连接
-# connect_obj = pymysql.connect(host='localhost', user='root', password='1231', database='mydata_firsttry', port=3306)
+# connect_obj = pymysql.connect(host='localhost', user='root', password='your password', database='your database', port=3306)
 # cur = connect_obj.cursor()  # 获取游标
 #
 # #  添加数据
